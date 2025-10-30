@@ -1,5 +1,5 @@
 body {
-    background-color: #2b1edd;
+    background-color: #5f0505;
     color: white;
     font-family: "Overpass", sans-serif;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #08bebe;
+    background-color: #da0588;
     color: white;
     font-family: "Overpass", sans-serif;
 }
